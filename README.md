@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Framework-Hotwire%20/%20Turbo-blue)
 
 ## 📌 Executive Summary
-During a security assessment of a collaborative SaaS platform (**app.fizzy.do**), I identified a **Critical Stored HTML Injection** vulnerability. By bypassing client-side validation, an attacker can inject arbitrary, styled HTML into the application’s UI. 
+During a security assessment of a collaborative SaaS platform, I identified a **Critical Stored HTML Injection** vulnerability. By bypassing client-side validation, an attacker can inject arbitrary, styled HTML into the application’s UI. 
 
 This isn't just a cosmetic issue. Because the application utilizes **Hotwire/Turbo Stream** for real-time updates, the injected payload integrates seamlessly into the trusted DOM. This allows for sophisticated **UI Redressing** attacks that are virtually indistinguishable from legitimate system alerts.
 
